@@ -1,0 +1,18 @@
+{
+    "id": "foundryvtt-core-thai-localization",
+    "title": "Dice Tray - An Example FVTT Module",
+    "description": "Thai localization for Foundry VTT.",
+    "authors": [
+        {
+            "name": "3xbun"
+        },
+        {
+            "name": "D&D: For Us"
+        }
+    ],
+    "version": "0.0.1-alpha",
+    "compatibility": {
+        "minimum": "14",
+        "verified": "14"
+    }
+}
