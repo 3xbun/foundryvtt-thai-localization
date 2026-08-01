@@ -2,7 +2,7 @@
     "id": "foundryvtt-thai-localization",
     "title": "Foundry VTT: ภาษาไทย",
     "description": "โมดูลนี้แปล Foundry VTT และโมดูลอื่น ๆ ให้เป็นภาษาไทย ตั้งค่า Foundry VTT ให้เป็นภาษาไทยเพื่อให้โมดูลนี้ทำงาน",
-    "version": "0.0.3-alpha",
+    "version": "0.0.4-alpha",
     "compatibility": {
         "minimum": "14",
         "verified": "14"
@@ -24,5 +24,5 @@
     ],
     "url": "https://github.com/3xbun/foundryvtt-thai-localization",
     "download": "https://github.com/3xbun/foundryvtt-thai-localization/releases/latest/download/module.zip",
-    "manifest": "https://raw.githubusercontent.com/3xbun/foundryvtt-thai-localization/refs/heads/main/module.json"
+    "manifest": "https://github.com/3xbun/foundryvtt-thai-localization/releases/latest/download/module.json"
 }
