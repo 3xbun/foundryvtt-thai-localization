@@ -23,6 +23,6 @@
         }
     ],
     "url": "https://github.com/3xbun/foundryvtt-thai-localization",
-    "manifest": "https://raw.githubusercontent.com/3xbun/foundryvtt-thai-localization/refs/heads/main/module.json",
-    "download": "https://github.com/3xbun/foundryvtt-thai-localization/releases/latest/download/module.zip"
+    "download": "https://github.com/3xbun/foundryvtt-thai-localization/releases/latest/download/module.zip",
+    "manifest": "https://raw.githubusercontent.com/3xbun/foundryvtt-thai-localization/refs/heads/main/module.json"
 }
