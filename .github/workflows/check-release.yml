@@ -44,7 +44,7 @@ jobs:
       - name: Create zip if updated
         if: steps.check_version.outputs.updated == 'true'
         run: |
-          zip -r module.zip module.json README.md core/
+          zip -r module.zip module.json README.md core/ css/ modules/ systems/
 
       - name: Upload release assets
         if: steps.check_version.outputs.updated == 'true'
