@@ -2,7 +2,7 @@
     "id": "fvtt-th-localization",
     "title": "Foundry VTT: ภาษาไทย",
     "description": "โมดูลนี้แปล Foundry VTT และโมดูลอื่น ๆ ให้เป็นภาษาไทย ตั้งค่า Foundry VTT ให้เป็นภาษาไทยเพื่อให้โมดูลนี้ทำงาน",
-    "version": "0.2.0-beta",
+    "version": "0.2.1-beta",
     "coreTranslation": true,
     "compatibility": {
         "minimum": "14",
@@ -25,12 +25,12 @@
 		{
 			"lang": "th",
 			"system": "dnd5e",
-			"path": "lang/systems/dnd5e/th.json"
+			"path": "systems/dnd5e/th.json"
 		},
 		{
 			"lang": "th",
 			"module": "fa-nuxus",
-			"path": "lang/modules/fa-nuxus/th.json"
+			"path": "modules/fa-nuxus/th.json"
 		}
     ],
   	"styles" : ["./css/main.css"],
