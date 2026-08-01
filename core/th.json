@@ -581,12 +581,12 @@
       },
       "SETTING": {
         "Hint": "กำหนดค่าว่าจะใช้ภาพจากระบบหรือโมดูลใด",
-        "Label": "ภาพประกอบคัมภีร์",
-        "Title": "ภาพประกอบคัมภีร์"
+        "Label": "ภาพประกอบ Compendium",
+        "Title": "ภาพประกอบ Compendium"
       }
     },
-    "CopyId": "คัดลอก ID คัมภีร์",
-    "IdCopiedClipboard": "คัดลอก ID คัมภีร์ \"{id}\" ไปยังคลิปบอร์ดแล้ว"
+    "CopyId": "คัดลอก ID Compendium",
+    "IdCopiedClipboard": "คัดลอก ID Compendium \"{id}\" ไปยังคลิปบอร์ดแล้ว"
   },
   "CONTROLS": {
     "Title": "อ้างอิงการควบคุมเกม",
@@ -599,7 +599,7 @@
     "TargetSelect": "เลือกเป้าหมาย",
     "TargetSelectP": "กำหนดเป้าหมายโทเคนใดๆ ที่คุณมองเห็น",
     "BasicMeasure": "วัดระยะทาง",
-    "GroupTile": "การควบคุมแผ่นภาพ (Tile)",
+    "GroupTile": "การควบคุมแผ่นภาพ",
     "TileSelect": "เลือกแผ่นภาพ",
     "TilePlace": "วางแผ่นภาพ",
     "TilePlaceHeading": "วาง",
@@ -3602,11 +3602,11 @@
   "RULER.MovementLocked": "ไม่สามารถเคลื่อนย้าย Token นี้ได้เนื่องจากถูกล็อกอยู่",
   "SIDEBAR.Import": "นำเข้าข้อมูล",
   "SIDEBAR.NavLabel": "แท็บแถบด้านข้าง",
-  "SIDEBAR.TabJournal": "บันทึก (Journal)",
-  "SIDEBAR.TabCompendium": "ชุดข้อมูล (Compendium Packs)",
+  "SIDEBAR.TabJournal": "บันทึก",
+  "SIDEBAR.TabCompendium": "ชุดข้อมูล",
   "SIDEBAR.TabPlaceables": "วัตถุที่วางได้",
   "SIDEBAR.TabSettings": "การตั้งค่า",
-  "SIDEBAR.TabTables": "ตารางสุ่ม (Rollable Tables)",
+  "SIDEBAR.TabTables": "ตารางสุ่ม",
   "SIDEBAR.TokenArt": "ดูภาพ Token",
   "SIDEBAR.SearchModeName": "ค้นหาจากชื่อเท่านั้น",
   "SIDEBAR.SearchModeFull": "ค้นหาจากเนื้อหาทั้งหมด",
