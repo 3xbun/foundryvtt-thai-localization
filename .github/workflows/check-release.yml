@@ -16,7 +16,10 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: "24"
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Check module.json version
         id: check_version
@@ -41,7 +44,7 @@ jobs:
       - name: Create zip if updated
         if: steps.check_version.outputs.updated == 'true'
         run: |
-          zip module.zip module.json zh-tw.json README.md
+          zip module.zip module.json README.md
 
       - name: Upload release assets
         if: steps.check_version.outputs.updated == 'true'
