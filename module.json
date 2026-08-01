@@ -1,5 +1,5 @@
 {
-    "id": "foundryvtt-thai-localization",
+    "id": "fvtt-th-localization",
     "title": "Foundry VTT: ภาษาไทย",
     "description": "โมดูลนี้แปล Foundry VTT และโมดูลอื่น ๆ ให้เป็นภาษาไทย ตั้งค่า Foundry VTT ให้เป็นภาษาไทยเพื่อให้โมดูลนี้ทำงาน",
     "version": "0.0.7-alpha",
