@@ -19,7 +19,7 @@
         {
             "lang": "th-TH",
             "name": "ภาษาไทย",
-            "path": "zh-tw.json"
+            "path": "core/th.json"
         }
     ],
     "url": "https://github.com/3xbun/foundryvtt-thai-localization",
