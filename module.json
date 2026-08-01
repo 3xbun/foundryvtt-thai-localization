@@ -21,7 +21,17 @@
             "lang": "th",
             "name": "ภาษาไทย",
             "path": "core/th.json"
-        }
+        },
+		{
+			"lang": "th",
+			"system": "dnd5e",
+			"path": "lang/systems/dnd5e/th.json"
+		},
+		{
+			"lang": "th",
+			"module": "fa-nuxus",
+			"path": "lang/modules/fa-nuxus/th.json"
+		}
     ],
   	"styles" : ["./css/main.css"],
     "url": "https://github.com/3xbun/foundryvtt-thai-localization",
