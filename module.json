@@ -23,6 +23,7 @@
             "path": "core/th.json"
         }
     ],
+  	"styles" : ["./css/main.css"],
     "url": "https://github.com/3xbun/foundryvtt-thai-localization",
     "download": "https://github.com/3xbun/foundryvtt-thai-localization/releases/latest/download/module.zip",
     "manifest": "https://github.com/3xbun/foundryvtt-thai-localization/releases/latest/download/module.json"

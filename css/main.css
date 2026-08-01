@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+:root {
+  --thai-font: 'Google Sans', sans-serif
+}
+
+body {
+  --font-sans:  var(--thai-font);
+  --font-serif: var(--thai-font);
+  --font-blockquote: var(--thai-font);
+  --font-h1:var(--thai-font);
+  --font-h2:var(--thai-font);
+  --font-h3:var(--thai-font);
+}
