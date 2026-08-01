@@ -2,7 +2,7 @@
     "id": "foundryvtt-thai-localization",
     "title": "Foundry VTT: ภาษาไทย",
     "description": "โมดูลนี้แปล Foundry VTT และโมดูลอื่น ๆ ให้เป็นภาษาไทย ตั้งค่า Foundry VTT ให้เป็นภาษาไทยเพื่อให้โมดูลนี้ทำงาน",
-    "version": "0.0.1-alpha",
+    "version": "0.0.2-alpha",
     "compatibility": {
         "minimum": "14",
         "verified": "14"
