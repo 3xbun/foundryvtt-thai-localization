@@ -1,7 +1,7 @@
 {
     "id": "foundryvtt-core-thai-localization",
-    "title": "Dice Tray - An Example FVTT Module",
-    "description": "Thai localization for Foundry VTT.",
+    "title": "Foundry VTT",
+    "description": "โมดูลนี้แปล Foundry VTT และโมดูลอื่น ๆ ให้เป็นภาษาไทย ตั้งค่า Foundry VTT ให้เป็นภาษาไทยเพื่อให้โมดูลนี้ทำงาน",
     "authors": [
         {
             "name": "3xbun"
