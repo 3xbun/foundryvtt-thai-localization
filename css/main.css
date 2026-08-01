@@ -8,7 +8,15 @@ body {
   --font-sans: var(--thai-font);
   --font-serif: var(--thai-font);
   --font-blockquote: var(--thai-font);
-  --font-h1:var(--thai-font);
-  --font-h2:var(--thai-font);
-  --font-h3:var(--thai-font);
+  --font-h1: var(--thai-font);
+  --font-h2: var(--thai-font);
+  --font-h3: var(--thai-font);
+}
+
+/* DND5E System */
+body {
+  --dnd5e-font-modesto: var(--thai-font);
+  --dnd5e-font-roboto: var(--thai-font);
+  --dnd5e-font-roboto-condensed:  var(--thai-font);
+  --dnd5e-font-roboto-slab: var(--thai-font);
 }
